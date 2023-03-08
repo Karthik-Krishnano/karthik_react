@@ -96,6 +96,29 @@ function Awards() {
               </div>
             </div>
           </div>
+    
+      <div class="col-md-3">
+            <div class="work-box">
+              <a href="assets/img/awards/prize1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src="assets/img/awards/prize1.jpg" alt="" class="img-fluid" />
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="">
+                    <h2 class="w-title">Best Student Teacher</h2>
+                    <div class="w-more">
+                      <i class="bi bi-geo-alt"></i>
+                      <span class="w-ctegory">&nbsp;Kendriya Vidyalaya,Ezhimala</span> <br/> 
+                      <i class="bi bi-calendar-date"></i>
+                      <span class="w-date">&nbsp;5 Sep 2019</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
 
           
